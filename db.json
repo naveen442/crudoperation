@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "name": "naveen",
+        "age": 29,
+        "city": "Namakkal",
+        "email": "naveen@gmail.com",
+        "phone": "1234567890",
+        "address": "123 namakkal"
+      },
+      {
+        "id": 2,
+        "name": "praveen",
+        "age": 30,
+        "city": "chennai",
+        "email": "praveen.com",
+        "phone": "9876543210",
+        "address": "456 chennai"
+      }
+    ]
+  }
+  
